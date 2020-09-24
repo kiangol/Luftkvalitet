@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Luftkvalitet</string>
+    <string name="kart">Kart</string>
+    <string name="hjem">Hjem</string>
+    <string name="verdi">verdi</string>
+    <string name="endre_kartfarge">endre kartfarge</string>
+    <string name="stasjon">Stasjon</string>
+    <string name="utforsk">Utforsk</string>
+    <string name="current_location">Nåværende plassering</string>
+    <string name="good_morning">God morgen</string>
+    <string name="good_morning_2">God formiddag</string>
+    <string name="good_afternoon">God ettermiddag</string>
+    <string name="good_evening">God kveld</string>
+    <string name="good_night">God natt</string>
+    <string name="hei">Hei</string>
+    <string name="no_stations_near">Ingen stasjoner i nærheten</string>
+    <string name="within_20">Over 20km unna nærmeste stasjon</string>
+    <string name="informasjon_om_partiker">Informasjon om partiker</string>
+    <string name="search_result_str">Søkeresultat</string>
+
+</resources>
